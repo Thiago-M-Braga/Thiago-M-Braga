@@ -29,7 +29,7 @@
 
 </div>
     
-## ✨ Statísticas:
+## ✨ Estatísticas:
 <a href="https://github.com/thiago-m-braga" text-decoration="none">
     <div display:"flex">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-m-braga&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
