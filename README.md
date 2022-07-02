@@ -18,7 +18,7 @@
 
 ### *Linguagens que trabalho:*
 
-<code><img alt="Angular" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></code>
+<code><img alt="Angular" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code>
 <code><img alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
 <code><img alt="Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
 <code><img alt="Ts" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
@@ -32,8 +32,8 @@
 ## ✨ Statísticas:
 <a href="https://github.com/thiago-m-braga" text-decoration="none">
     <div display:"flex">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-m-braga&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-m-braga&layout=compact&langs_count=7&theme=gotham"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-m-braga&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-m-braga&layout=compact&langs_count=7&theme=midnight-purple"/>
     </div>
 </a>
     
@@ -42,6 +42,6 @@
 ## 📬 Contato:
 <div> 
    <a href="https://instagram.com/thiaguh_braga" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:thiagomarinbraga@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "mailto:thiagomarinsbraga@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
