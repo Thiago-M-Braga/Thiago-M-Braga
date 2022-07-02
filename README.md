@@ -5,7 +5,7 @@
 
 ### ⚡ Sobre mim
 
-⇨ Atualmente estou trabalhando para WEG
-⇨ Aprendizagem Industrial - Programador de Sistemas da Informação - PSIN 2021 - 2023
+⇨ Atualmente estou trabalhando para WEG.
+⇨ Aprendizagem Industrial - Programador de Sistemas da Informação - PSIN 2021 - 2023.
 
 ![Status](https://github-readme-stats.vercel.app/api?username=Thiago-M-Braga)
