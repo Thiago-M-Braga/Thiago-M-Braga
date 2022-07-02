@@ -8,7 +8,7 @@
    </div>
 <div>
 
-## ⚡ Sobre mim
+## ⚡ Sobre mim:
 
 ⇨ Curso ensino médio integrado com Desenvolvimento de Sistemas.
 
