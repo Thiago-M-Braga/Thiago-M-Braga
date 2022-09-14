@@ -10,7 +10,7 @@
 
 ## ⚡ Sobre mim:
 
-⇨ Curso ensino médio integrado com Técnico em Desenvolvimento de Sistemas.
+⇨ Curso ensino médio integrado com Técnico em Desenvolvimento de Sistemas no SENAI.
 
 ⇨ Faço aprendizagem industrial - Programador de Sistemas da Informação - PSIN 2021 - 2023.
 
