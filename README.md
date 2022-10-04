@@ -30,7 +30,7 @@
 <code><img title="MySQL" alt="MySQL" height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
 <code><img title="NodeJs" alt="NodeJs" height="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
 <code><img title="Markdown" alt="Markdown" height="30" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"></code>
-    
+<code><img title="Docker" alt="Docker" height="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"></code>
 
 
 
