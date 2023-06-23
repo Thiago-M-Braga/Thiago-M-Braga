@@ -25,6 +25,7 @@
 <code><img title="HTML" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img title="CSS" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
 <code><img title="C" alt="C" height="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
+<code><img title="C#" alt="C#" height="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
 <code><img title="Java" alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img title="Python" alt="Python" height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img title="MySQL" alt="MySQL" height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
